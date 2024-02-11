@@ -3,7 +3,7 @@ const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
 async function getRepos() {
   return await octokit
-    .request("GET /users/feri-irawan/repos", {
+    .request("GET /users/Tonisr17/repos", {
       per_page: 100,
     })
     .then(({ data }) =>
