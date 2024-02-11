@@ -27,7 +27,7 @@ function HeroSection() {
           bgGradient="linear(90deg, #2CFF34 0%, #2C5AFF 82.34%)"
           bgClip="text"
         >
-          Feri Irawan
+          Toni Supendi Ramdhon 
         </Text>
         <HeroImage m=".5rem 0 1rem" />
         <Text fontSize={18} pb="1rem" textAlign="center">
