@@ -284,7 +284,7 @@ function ContactSection() {
 
 export default function Home() {
   return (
-    <Layout title="Hi, i am Feri Irawan 👋🏻">
+    <Layout title="Hi, i am Toni Supendi Ramdhon 👋🏻">
       <SimpleGrid
         gap="8rem"
         as={motion.div}
